@@ -47,11 +47,11 @@
     "QtyOnHand": "1",
     "QtyOnBackOrder": "6",
     "Description": "Mario Kart 8 is a kart racing game developed and published by Nintendo, and first released for the Wii U in 2014. It retains Mario Kart series game mechanics, where players control Mario franchise characters in kart racing, collecting a variety of items to hinder opponents or gain advantages in the race.",
-    "Bran"d: "Nintendo"
+    "Brand": "Nintendo"
   },
   {
     "ProductName": "PS5",
-    "GraphicNam"e: "Playstation 5",
+    "GraphicName": "Playstation 5",
     "CostPrice": "629.99",
     "MSRP": "629.99",
     "QtyOnHand": "0",
@@ -81,7 +81,7 @@
   },
   {
     "ProductName": "Spider-Man: Miles Morales",
-    "GraphicNam"e: "Marvels Spider-Man: Miles Morales",
+    "GraphicName": "Marvels Spider-Man: Miles Morales",
     "CostPrice": "79.99",
     "MSRP": "79.99",
     "QtyOnHand": "5",
@@ -144,7 +144,7 @@
     "GraphicName": "Assassins Creed Valhalla",
     "CostPrice": "79.99",
     "MSRP": "79.99",
-    "QtyOnHan"d: "7",
+    "QtyOnHand": "7",
     "QtyOnBackOrder": "0",
     "Description": "Assassins Creed Valhalla is a 2020 action role-playing video game developed by Ubisoft Montreal and published by Ubisoft.",
     "Brand": "Microsoft"
