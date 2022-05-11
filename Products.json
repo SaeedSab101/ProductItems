@@ -1,6 +1,6 @@
 [
   {
-    ProductName: "Switch",
+    "ProductName": "Switch",
     "GraphicName": "Nintendo Switch",
     "CostPrice": "379.99",
     "MSRP": "379.99",
