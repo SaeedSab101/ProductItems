@@ -1,7 +1,7 @@
 ﻿[
   {
     "ProductName": "Switch",
-    "GraphicName": "switch.jpg",
+    "GraphicName": "switch.png",
     "CostPrice": "379.99",
     "MSRP": "379.99",
     "QtyOnHand": "19",
@@ -61,7 +61,7 @@
   },
   {
     "ProductName": "DualSense 5 Controller",
-    "GraphicName": "ps5con.jpg",
+    "GraphicName": "ps5con.png",
     "CostPrice": "89.99",
     "MSRP": "89.99",
     "QtyOnHand": "3",
@@ -71,7 +71,7 @@
   },
   {
     "ProductName": "Elden Ring",
-    "GraphicName": "er.jpg",
+    "GraphicName": "er.png",
     "CostPrice": "79.99",
     "MSRP": "79.99",
     "QtyOnHand": "2",
@@ -81,7 +81,7 @@
   },
   {
     "ProductName": "Spider-Man: Miles Morales",
-    "GraphicName": "smmm.jpg",
+    "GraphicName": "smmm.png",
     "CostPrice": "79.99",
     "MSRP": "79.99",
     "QtyOnHand": "5",
@@ -91,7 +91,7 @@
   },
   {
     "ProductName": "Deathloop",
-    "GraphicName": "dl.jpg",
+    "GraphicName": "dl.png",
     "CostPrice": "79.99",
     "MSRP": "79.99",
     "QtyOnHand": "3",
@@ -101,7 +101,7 @@
   },
   {
     "ProductName": "Series X",
-    "GraphicName": "xboxx.jpg",
+    "GraphicName": "xboxx.png",
     "CostPrice": "599.99",
     "MSRP": "599.99",
     "QtyOnHand": "0",
@@ -111,7 +111,7 @@
   },
   {
     "ProductName": "Series S",
-    "GraphicName": "xboxs.jpg",
+    "GraphicName": "xboxs.png",
     "CostPrice": "379.99",
     "MSRP": "379.99",
     "QtyOnHand": "2",
@@ -121,7 +121,7 @@
   },
   {
     "ProductName": "Wireless Controller",
-    "GraphicName": "xboxcon.jpg",
+    "GraphicName": "xboxcon.png",
     "CostPrice": "74.99",
     "MSRP": "74.99",
     "QtyOnHand": "4",
@@ -131,7 +131,7 @@
   },
   {
     "ProductName": "Halo Infinite",
-    "GraphicName": "hi.jpg",
+    "GraphicName": "hi.png",
     "CostPrice": "79.96",
     "MSRP": "79.96",
     "QtyOnHand": "1",
@@ -141,7 +141,7 @@
   },
   {
     "ProductName": "Assassins Creed Valhalla",
-    "GraphicName": "acv.jpg",
+    "GraphicName": "acv.png",
     "CostPrice": "79.99",
     "MSRP": "79.99",
     "QtyOnHand": "7",
