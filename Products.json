@@ -1,7 +1,7 @@
 ﻿[
   {
     "ProductName": "Switch",
-    "GraphicName": "Nintendo Switch",
+    "GraphicName": "switch.jpg",
     "CostPrice": "379.99",
     "MSRP": "379.99",
     "QtyOnHand": "19",
@@ -11,7 +11,7 @@
   },
   {
     "ProductName": "Joycons",
-    "GraphicName": "Nintendo Switch Joycons",
+    "GraphicName": "joycon.jpg",
     "CostPrice": "99.99",
     "MSRP": "99.99",
     "QtyOnHand": "6",
@@ -21,7 +21,7 @@
   },
   {
     "ProductName": "Pro-Con",
-    "GraphicName": "Nintendo Switch Pro Controller",
+    "GraphicName": "procon.jpg",
     "CostPrice": "89.99",
     "MSRP": "89.99",
     "QtyOnHand": "4",
@@ -31,7 +31,7 @@
   },
   {
     "ProductName": "Super Mario Odyssey",
-    "GraphicName": "Nintendo Switch - Super Mario Odyssey",
+    "GraphicName": "smo.png",
     "CostPrice": "79.99",
     "MSRP": "79.99",
     "QtyOnHand": "3",
@@ -41,7 +41,7 @@
   },
   {
     "ProductName": "Mario Kart 8 Deluxe",
-    "GraphicName": "Nintendo Switch - Mario Kart 8 Deluxe",
+    "GraphicName": "mk8dx.png",
     "CostPrice": "79.99",
     "MSRP": "79.99",
     "QtyOnHand": "1",
@@ -51,7 +51,7 @@
   },
   {
     "ProductName": "PS5",
-    "GraphicName": "Playstation 5",
+    "GraphicName": "ps5.jpg",
     "CostPrice": "629.99",
     "MSRP": "629.99",
     "QtyOnHand": "0",
@@ -61,7 +61,7 @@
   },
   {
     "ProductName": "DualSense 5 Controller",
-    "GraphicName": "PlayStation 5 DualSense Wireless Controller",
+    "GraphicName": "ps5con.jpg",
     "CostPrice": "89.99",
     "MSRP": "89.99",
     "QtyOnHand": "3",
@@ -71,7 +71,7 @@
   },
   {
     "ProductName": "Elden Ring",
-    "GraphicName": "Elden Ring",
+    "GraphicName": "er.jpg",
     "CostPrice": "79.99",
     "MSRP": "79.99",
     "QtyOnHand": "2",
@@ -81,7 +81,7 @@
   },
   {
     "ProductName": "Spider-Man: Miles Morales",
-    "GraphicName": "Marvels Spider-Man: Miles Morales",
+    "GraphicName": "smmm.jpg",
     "CostPrice": "79.99",
     "MSRP": "79.99",
     "QtyOnHand": "5",
@@ -91,7 +91,7 @@
   },
   {
     "ProductName": "Deathloop",
-    "GraphicName": "Deathloop",
+    "GraphicName": "dl.jpg",
     "CostPrice": "79.99",
     "MSRP": "79.99",
     "QtyOnHand": "3",
@@ -101,7 +101,7 @@
   },
   {
     "ProductName": "Series X",
-    "GraphicName": "Xbox Series X",
+    "GraphicName": "xboxx.jpg",
     "CostPrice": "599.99",
     "MSRP": "599.99",
     "QtyOnHand": "0",
@@ -111,7 +111,7 @@
   },
   {
     "ProductName": "Series S",
-    "GraphicName": "Xbox Series S",
+    "GraphicName": "xboxs.jpg",
     "CostPrice": "379.99",
     "MSRP": "379.99",
     "QtyOnHand": "2",
@@ -121,7 +121,7 @@
   },
   {
     "ProductName": "Wireless Controller",
-    "GraphicName": "Xbox Wireless Controller",
+    "GraphicName": "xboxcon.jpg",
     "CostPrice": "74.99",
     "MSRP": "74.99",
     "QtyOnHand": "4",
@@ -131,7 +131,7 @@
   },
   {
     "ProductName": "Halo Infinite",
-    "GraphicName": "Halo Infinite",
+    "GraphicName": "hi.jpg",
     "CostPrice": "79.96",
     "MSRP": "79.96",
     "QtyOnHand": "1",
@@ -141,7 +141,7 @@
   },
   {
     "ProductName": "Assassins Creed Valhalla",
-    "GraphicName": "Assassins Creed Valhalla",
+    "GraphicName": "acv.jpg",
     "CostPrice": "79.99",
     "MSRP": "79.99",
     "QtyOnHand": "7",
